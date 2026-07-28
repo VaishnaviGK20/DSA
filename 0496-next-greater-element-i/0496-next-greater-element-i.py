@@ -5,24 +5,18 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
+        s=[]
+        m={}
 
-        stack = []
-        mp = {}
-
-        for i in range(len(nums2) - 1, -1, -1):
-            while stack and stack[-1] < nums2[i]:
-                stack.pop()
-
-            if stack:
-                mp[nums2[i]] = stack[-1]
+        for i in range(len(nums2)-1,-1,-1):
+            while s and s[-1]< nums2[i]:
+                s.pop()
+            if s:
+                m[nums2[i]]=s[-1]
             else:
-                mp[nums2[i]] = -1
-
-            stack.append(nums2[i])
-
-        r = []
-
+                m[nums2[i]]=-1
+            s.append(nums2[i])
+        r=[]
         for i in nums1:
-            r.append(mp[i])
-
+            r.append(m[i])
         return r
