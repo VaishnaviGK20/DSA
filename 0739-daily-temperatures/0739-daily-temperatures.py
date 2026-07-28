@@ -4,15 +4,19 @@ class Solution(object):
         :type temperatures: List[int]
         :rtype: List[int]
         """
-        s=[]
-        r=[0]*len(temperatures)
 
-        for i in range(len(temperatures)):
+        n = len(temperatures)
+        result = [0] * n
+        stack = []   # stores indexes
 
-            while s and temperatures[s[-1]]< temperatures[i]:
-                x=s.pop()
-                r[x]=i-x
+        for i in range(n):
 
-            s.append(i)
-        return r
-            
+            # Current temperature is warmer than previous temperatures
+            while stack and temperatures[stack[-1]] < temperatures[i]:
+                prev_day = stack.pop()
+                result[prev_day] = i - prev_day
+
+            # Store current day index
+            stack.append(i)
+
+        return result
