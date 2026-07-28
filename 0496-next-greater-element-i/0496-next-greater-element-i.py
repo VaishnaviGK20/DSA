@@ -6,21 +6,23 @@ class Solution(object):
         :rtype: List[int]
         """
 
+        stack = []
+        mp = {}
+
+        for i in range(len(nums2) - 1, -1, -1):
+            while stack and stack[-1] < nums2[i]:
+                stack.pop()
+
+            if stack:
+                mp[nums2[i]] = stack[-1]
+            else:
+                mp[nums2[i]] = -1
+
+            stack.append(nums2[i])
+
         r = []
 
-        for i in range(len(nums1)):
-            f=False
-            for j in range(len(nums2)):
-                if nums1[i] == nums2[j]:
+        for i in nums1:
+            r.append(mp[i])
 
-                    for k in range(j+1, len(nums2)):
-                        if nums2[k] > nums2[j]:
-                            r.append(nums2[k])
-                            f=True
-                            break
-                    if not f:
-                        r.append(-1)
         return r
-                        
-                    
-                    
