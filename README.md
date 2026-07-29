@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VaishnaviGK20/DSA/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/VaishnaviGK20/DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VaishnaviGK20/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VaishnaviGK20/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VaishnaviGK20/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/VaishnaviGK20/DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VaishnaviGK20/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
