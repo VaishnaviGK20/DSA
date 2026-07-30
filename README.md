@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VaishnaviGK20/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VaishnaviGK20/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/VaishnaviGK20/DSA/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/VaishnaviGK20/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VaishnaviGK20/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VaishnaviGK20/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/VaishnaviGK20/DSA/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/VaishnaviGK20/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -39,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/VaishnaviGK20/DSA/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/VaishnaviGK20/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
