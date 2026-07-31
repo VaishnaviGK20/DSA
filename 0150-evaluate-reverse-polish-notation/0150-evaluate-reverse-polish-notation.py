@@ -1,23 +1,21 @@
 class Solution(object):
     def evalRPN(self, tokens):
-        """
-        :type tokens: List[str]
-        :rtype: int
-        """
-        s=[]
+        s = []
+
         for i in tokens:
-            if i not in {"+","-", "*", "/"}:
+            if i not in {"+", "-", "*", "/"}:
                 s.append(int(i))
             else:
-                b=s.pop()
-                a=s.pop()
-            if i=="+":
-                s.append(a+b)
-            elif i=="-":
-                s.append(a-b)
-            elif i=="*":
-                s.append(a*b)
-            elif i=="/":
-                s.append(int(float(a)/b))
+                p = s.pop()
+                q = s.pop()
+
+                if i == "+":
+                    s.append(q + p)
+                elif i == "-":
+                    s.append(q - p)
+                elif i == "*":
+                    s.append(q * p)
+                elif i == "/":
+                    s.append(int(float(q) / p))
+
         return s[-1]
- 
