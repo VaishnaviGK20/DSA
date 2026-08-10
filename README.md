@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/VaishnaviGK20/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/VaishnaviGK20/DSA/tree/master/0394-decode-string) |
 ## Bracket Sequences
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VaishnaviGK20/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
