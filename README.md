@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviGK20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/VaishnaviGK20/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VaishnaviGK20/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/VaishnaviGK20/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VaishnaviGK20/DSA/tree/master/0739-daily-temperatures) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VaishnaviGK20/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/VaishnaviGK20/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/VaishnaviGK20/DSA/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VaishnaviGK20/DSA/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VaishnaviGK20/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
