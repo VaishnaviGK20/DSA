@@ -12,21 +12,23 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
 
+        v=[]
+        c=head
+        while c:
+            v.append(c.val)
+            c=c.next
+        
+        v[left-1:right]=v[left-1:right][::-1]
+        
+        c=head
+        i=0
 
-        d=ListNode(0)
-        d.next=head
-        p=d
+        while c:
+            c.val=v[i]
+            c=c.next
+            i+=1
+        return head
 
-        for _ in range(left-1):
-            p=p.next
-        c=p.next
 
-        for _ in range(right-left):
-            t=c.next
-            c.next=t.next
-            t.next=p.next
-            p.next=t
 
-        return d.next
 
-      
