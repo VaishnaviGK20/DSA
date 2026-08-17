@@ -1,35 +1,26 @@
-class Solution(object): 
-    def addTwoNumbers(self, l1, l2): 
-        v1 = []
-        v2 = []
-        r = []
+class Solution(object):
+    def addTwoNumbers(self, l1, l2):
 
-        while l1:
-            v1.append(l1.val)
-            l1 = l1.next
-
-        while l2:
-            v2.append(l2.val)
-            l2 = l2.next
-
+        dummy = ListNode(0)
+        curr = dummy
         carry = 0
 
-        for i in range(max(len(v1), len(v2))):
-            a = v1[i] if i < len(v1) else 0
-            b = v2[i] if i < len(v2) else 0
+        while l1 or l2 or carry:
+
+            a = l1.val if l1 else 0
+            b = l2.val if l2 else 0
 
             s = a + b + carry
-            r.append(s % 10)
+
+            curr.next = ListNode(s % 10)
             carry = s // 10
 
-        if carry:
-            r.append(carry)
+            curr = curr.next
 
-        d = ListNode(0)
-        c = d
+            if l1:
+                l1 = l1.next
 
-        for i in r:
-            c.next = ListNode(i)
-            c = c.next
+            if l2:
+                l2 = l2.next
 
-        return d.next
+        return dummy.next
