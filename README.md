@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VaishnaviGK20/DSA/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/VaishnaviGK20/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VaishnaviGK20/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/VaishnaviGK20/DSA/tree/master/0844-backspace-string-compare) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviGK20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/VaishnaviGK20/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
