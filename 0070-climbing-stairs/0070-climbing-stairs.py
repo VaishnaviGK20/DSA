@@ -1,7 +1,6 @@
 class Solution(object):
     def climbStairs(self, n):
-
-        memo = {}
+        m={}
 
         def climb(n):
 
@@ -10,12 +9,10 @@ class Solution(object):
 
             if n == 2:
                 return 2
-
-            if n in memo:
-                return memo[n]
-
-            memo[n] = climb(n - 1) + climb(n - 2)
-
-            return memo[n]
+            if n in m:
+                return m[n]
+            m[n] = climb(n-1) + climb(n-2)
+            return m[n]
 
         return climb(n)
+
