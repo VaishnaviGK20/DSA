@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VaishnaviGK20/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/VaishnaviGK20/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/VaishnaviGK20/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VaishnaviGK20/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/VaishnaviGK20/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0227-basic-calculator-ii) |
@@ -111,9 +112,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VaishnaviGK20/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VaishnaviGK20/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VaishnaviGK20/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VaishnaviGK20/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
