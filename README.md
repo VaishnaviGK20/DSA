@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/VaishnaviGK20/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/VaishnaviGK20/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/VaishnaviGK20/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VaishnaviGK20/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/VaishnaviGK20/DSA/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VaishnaviGK20/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VaishnaviGK20/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaishnaviGK20/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VaishnaviGK20/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VaishnaviGK20/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
